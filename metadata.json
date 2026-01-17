@@ -1,0 +1,8 @@
+
+{
+  "name": "TurfPro - Premier Cricket Turf Booking",
+  "description": "A high-performance online booking platform for cricket enthusiasts to discover, book, and manage turf sessions with AI-powered assistance and seamless payment integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
